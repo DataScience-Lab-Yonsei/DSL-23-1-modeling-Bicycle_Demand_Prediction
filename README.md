@@ -56,13 +56,15 @@
                - 출퇴근 시간대에서 성능 차이가 심한 것을 확인
                - 정기권 이용비율을 직장인 비율의 대리변수로 사용 + 예측시간대에 출퇴근시간대인지 여부(binary 변수) 추가
                - 순대여량 시퀀스의 RNN 히든 스테이트에 위 두 변수를 곱한 후 fc layer 적용
+![image](https://user-images.githubusercontent.com/108214382/230713472-278062f7-1882-487d-ac39-b7fead3910c9.png)
+
     
 ### 4. 성능
 
         - Test set RMSE: 4.86
         - 출퇴근시간대 예측력 확보
-          ![image](https://user-images.githubusercontent.com/108214382/230713303-ed2102eb-a347-4da9-ad10-d0e660caff7e.png)
 
+![image](https://user-images.githubusercontent.com/108214382/230713303-ed2102eb-a347-4da9-ad10-d0e660caff7e.png)
 
 
     
