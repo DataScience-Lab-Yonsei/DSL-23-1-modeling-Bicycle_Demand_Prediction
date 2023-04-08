@@ -24,6 +24,7 @@
 > * modeling
 >   * [RNN_final.ipynb](https://github.com/SeungbeomDo/DSL-23-1-modeling-Bicycle_Demand_Prediction/blob/main/modeling/RNN_final.ipynb)
 > * PPT
+>   * [PPT](https://github.com/SeungbeomDo/DSL-23-1-modeling-Bicycle_Demand_Prediction/blob/main/ppt/A%EC%A1%B0_PPT_%EC%B5%9C%EC%A2%85.pdf)
 
 <br>
 
