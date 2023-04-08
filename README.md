@@ -61,7 +61,8 @@
 
         - Test set RMSE: 4.86
         - 출퇴근시간대 예측력 확보
-        ![image](https://user-images.githubusercontent.com/108214382/230713217-dbe010d3-043b-429c-84e7-e632c544b1ae.png)!
+          ![image](https://user-images.githubusercontent.com/108214382/230713303-ed2102eb-a347-4da9-ad10-d0e660caff7e.png)
+
 
     
 <br>
