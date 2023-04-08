@@ -8,18 +8,19 @@
 #### 참여자 : 도승범, 심은조, 유희조, 임세민, 정주영
 ## 모델링 프로젝트 자료 소개
 > * data
->   * [서울특별시 공공자전거 대여이력 정보](https://dacon.io/competitions/official/235980/data) : 따릉이의 반납 및 대여 정보
->   * [서울특별시 공공자전거 이용 정보](http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd) : 따릉이 이용자들의 연령대, 성별, 정기권 이용여부 등 유저 정보
->   * [nasdaq_data.csv](https://kr.investing.com/indices/nasdaq-composite) : 날씨 데이터
->   * [S&P_data.csv](https://kr.investing.com/indices/us-spx-500) : 지하철 이용량 데이터
+>   * [서울특별시 공공자전거 대여이력 정보](http://data.seoul.go.kr/dataList/OA-15182/F/1/datasetView.do#) : 따릉이의 반납 및 대여 정보
+>   * [서울특별시 공공자전거 이용 정보](http://data.seoul.go.kr/dataList/OA-15245/F/1/datasetView.do) : 따릉이 이용자들의 연령대, 성별, 정기권 이용여부 등 유저 정보
+>   * [서울특별시 공공자전거 대여소 정보](http://data.seoul.go.kr/dataList/OA-13252/F/1/datasetView.do) : 따릉이 대여소의 위치 정보
+>   * [방재기상관측](https://data.kma.go.kr/data/grnd/selectAwsRltmList.do?pgmNo=56) : 관측소별 날씨 데이터
+>   * [서울교통공사 승하차인원](https://www.data.go.kr/data/15099330/fileData.do) : 지하철 이용량 데이터
 > * preprocessing
->   * [1_Data_Merged.ipynb](https://github.com/SeungbeomDo/DSL-23-1-modeling-Bicycle_Demand_Prediction/blob/main/preprocessing/1_Data_Merged.ipynb)
->   * [2_train_test_split_v2.ipynb](https://github.com/SeungbeomDo/DSL-23-1-modeling-Bicycle_Demand_Prediction/blob/main/preprocessing/2_train_test_split_v2.ipynb)
->   * [3_live_work_clustered.ipynb](https://github.com/SeungbeomDo/DSL-23-1-modeling-Bicycle_Demand_Prediction/blob/main/preprocessing/1_Data_Merged.ipynb)
->   * [4_weather_merged.ipynb](https://github.com/SeungbeomDo/DSL-23-1-modeling-Bicycle_Demand_Prediction/blob/main/preprocessing/1_Data_Merged.ipynb)
->   * [5_subway_merged.ipynb](https://github.com/SeungbeomDo/DSL-23-1-modeling-Bicycle_Demand_Prediction/blob/main/preprocessing/1_Data_Merged.ipynb)
->   * [6_regular_merged.ipynb](https://github.com/SeungbeomDo/DSL-23-1-modeling-Bicycle_Demand_Prediction/blob/main/preprocessing/1_Data_Merged.ipynb)
->   * [7_teen_merged.ipynb](https://github.com/SeungbeomDo/DSL-23-1-modeling-Bicycle_Demand_Prediction/blob/main/preprocessing/1_Data_Merged.ipynb)
+>   * [1_Data_Merged.ipynb](https://github.com/SeungbeomDo/DSL-23-1-modeling-Bicycle_Demand_Prediction/blob/main/preprocessing/1_Data_Merged.ipynb) : 월별 데이터 통합
+>   * [2_train_test_split_v2.ipynb](https://github.com/SeungbeomDo/DSL-23-1-modeling-Bicycle_Demand_Prediction/blob/main/preprocessing/2_train_test_split_v2.ipynb) : train set과 test set 분리
+>   * [3_live_work_clustered.ipynb](https://github.com/SeungbeomDo/DSL-23-1-modeling-Bicycle_Demand_Prediction/blob/main/preprocessing/3_live_work_clustered.ipynb) : 생활지구와 업무지구 분리 후 클러스터링
+>   * [4_weather_merged.ipynb](https://github.com/SeungbeomDo/DSL-23-1-modeling-Bicycle_Demand_Prediction/blob/main/preprocessing/4_weather_merged.ipynb) : 날씨 데이터 결합
+>   * [5_subway_merged.ipynb](https://github.com/SeungbeomDo/DSL-23-1-modeling-Bicycle_Demand_Prediction/blob/main/preprocessing/5_subway_merged.ipynb) : 지하철 이용량 결합
+>   * [6_regular_merged.ipynb](https://github.com/SeungbeomDo/DSL-23-1-modeling-Bicycle_Demand_Prediction/blob/main/preprocessing/6_regular_merged.ipynb) : 정기권 이용비율 결합
+>   * [7_teen_merged.ipynb](https://github.com/SeungbeomDo/DSL-23-1-modeling-Bicycle_Demand_Prediction/blob/main/preprocessing/7_teen_merged.ipynb) : 10대 이용비율 결합
 > * modeling
 >   * [RNN_final.ipynb](https://github.com/SeungbeomDo/DSL-23-1-modeling-Bicycle_Demand_Prediction/blob/main/modeling/RNN_final.ipynb)
 > * PPT
