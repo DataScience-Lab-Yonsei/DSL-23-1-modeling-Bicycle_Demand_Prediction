@@ -6,7 +6,7 @@
 
 
 #### 참여자 : 도승범, 심은조, 유희조, 임세민, 정주영
-#### 모델링 프로젝트 자료 소개
+## 모델링 프로젝트 자료 소개
 > * data
 >   * [서울특별시 공공자전거 대여이력 정보](https://dacon.io/competitions/official/235980/data) : 따릉이의 반납 및 대여 정보
 >   * [서울특별시 공공자전거 이용 정보](http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd) : 따릉이 이용자들의 연령대, 성별, 정기권 이용여부 등 유저 정보
