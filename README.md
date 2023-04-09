@@ -1,5 +1,5 @@
 # DSL-23-1-modeling-Bicycle_Demand_Prediction
-DSL 2021-1 Modeling Project 서울시 공공자전거 따릉이 대여량 예측 모델링(RNN)
+[DSL 2023-1 Modeling Project] 서울시 공공자전거 따릉이 대여량 예측 모델링(RNN)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDataScience-Lab-Yonsei%2F9th_EDA%2F1%25E1%2584%258C%25E1%2585%25A9&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
